@@ -1,0 +1,23 @@
+<html>
+
+    <body>
+        <style> 
+        body{
+            background-color: rgb(56, 37, 26);
+        }
+        </style>
+        <div style="text-align: center;">
+            <style>
+                h1{
+                    font-size: 150px;
+                    color: antiquewhite;
+                }
+
+            </style>
+            <h1 style="font-family: 'Palatino', 'Palatino Linotype', 'Book Antiqua', serif; ;">Car photo site</h1>
+        </div>
+       
+
+    </body>
+   
+</html>
